@@ -23,25 +23,25 @@ In this project, I demonstrate my ability to extract, transform, and load (ETL) 
 
 <h2>Output from pokemon_project.py:</h2>
 
-<p align="left">
+<p align="center">
 Logs Progress<br/>
-<img src="https://i.imgur.com/Xwb3S4P.jpg" height="80%" width="80%" alt="Output1"/>
+<img src="https://i.imgur.com/Xwb3S4P.jpg" height="60%" width="60%" alt="Output1"/>
 <br />
 <br />
 First 5 Pokemon Table<br/>
-<img src="https://i.imgur.com/2HP6FkX.jpg" height="80%" width="80%" alt="Output2"/>
+<img src="https://i.imgur.com/2HP6FkX.jpg" height="60%" width="60%" alt="Output2"/>
 <br />
 <br />
 What is the average weight of the Pokemon by type?<br/>
-<img src="https://i.imgur.com/aSAPc5B.jpg" height="80%" width="80%" alt="Output3"/>
+<img src="https://i.imgur.com/aSAPc5B.jpg" height="60%" width="60%" alt="Output3"/>
 <br />
 <br />
 List the highest accuracy move by Pokemon type!<br/>
-<img src="https://i.imgur.com/H6lNK8i.jpg" height="80%" width="80%" alt="Output4"/>
+<img src="https://i.imgur.com/H6lNK8i.jpg" height="60%" width="60%" alt="Output4"/>
 <br />
 <br />
 Count the number of moves by Pokemon and order from greatest to least!<br/>
-<img src="https://i.imgur.com/Bkq5Xfu.jpg" height="80%" width="80%" alt="Output5"/>
+<img src="https://i.imgur.com/Bkq5Xfu.jpg" height="60%" width="60%" alt="Output5"/>
 <br />
 </p>
 
