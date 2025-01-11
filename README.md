@@ -8,7 +8,6 @@ In this project, I demonstrate my ability to extract, transform, and load (ETL) 
 - <b>Count the number of moves by Pokemon and order from greatest to least!</b>
 <br />
 
-
 <h2>Languages and Utilities Used</h2>
 
 - <b>python</b> 
