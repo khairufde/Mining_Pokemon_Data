@@ -16,6 +16,11 @@ In this project, I demonstrate my ability to extract, transform, and load (ETL) 
 - <b>sqlite3</b>
 - <b>sql</b>
 
+<h2>Data Architecture:</h2>
+
+<p align="center">
+<img src="https://i.imgur.com/jFhl9nE.jpeg" height="80%" width="80%" alt="DataArchitecture"/>
+
 <h2>Output from pokemon_project.py:</h2>
 
 <p align="center">
