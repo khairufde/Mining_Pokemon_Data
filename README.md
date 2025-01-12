@@ -10,8 +10,10 @@ In this project, I demonstrate my ability to extract, transform, and load (ETL) 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>python</b> 
+- <b>python</b>
+- <b>requests</b>
 - <b>PokeAPI</b>
+- <b>ETL</b>
 - <b>pandas</b>
 - <b>sqlite3</b>
 - <b>sql</b>
