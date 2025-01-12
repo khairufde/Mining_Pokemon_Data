@@ -11,7 +11,7 @@ In this project, I demonstrate my ability to extract, transform, and load (ETL) 
 <h2>Languages and Utilities Used</h2>
 
 - <b>python</b>
-- <b>web srapping</b>
+- <b>web scrapping</b>
 - <b>requests</b>
 - <b>PokeAPI</b>
 - <b>ETL</b>
