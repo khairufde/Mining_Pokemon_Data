@@ -45,6 +45,9 @@ List the highest accuracy move by Pokemon type!<br/>
 Count the number of moves by Pokemon and order from greatest to least!<br/>
 <img src="https://i.imgur.com/Bkq5Xfu.jpg" height="60%" width="60%" alt="Output5"/>
 <br />
+Output in pokemon_project directory<br/>
+<img src="https://i.imgur.com/M8jQOOm.jpeg" height="60%" width="60%" alt="Output5"/>
+<br />
 </p>
 
 <!--
