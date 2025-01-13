@@ -1,7 +1,7 @@
-<h1>Pokemon Data ETL: First 15 Pokemon Data Mining Using PokeAPI, Pandas, and SQLite</h1>
+<h1>Pokemon Data ETL: First 15 Pokemon Data Mining Using <a href="https://pokeapi.co/docs/v2">PokeAPI</a>, Pandas, and SQLite</h1>
 
 <h2>Description</h2>
-In this project, I demonstrate my ability to extract, transform, and load (ETL) data to analyze the first 15 Pokemon from the PokeAPI. The project involves scraping data from the PokeAPI, transforming it to fit my data architecture, loading it into an SQLite database, and answering the following questions:
+In this project, I demonstrate my ability to extract, transform, and load (ETL) data to analyze the first 15 Pokemon from the <a href="https://pokeapi.co/docs/v2">PokeAPI</a>. The project involves scraping data from the PokeAPI, transforming it to fit my data architecture, loading it into an SQLite database, and answering the following questions:
 
 - <b>What is the average weight of the Pokemon by type?</b> 
 - <b>List the highest accuracy move by Pokemon type!</b>
@@ -13,7 +13,7 @@ In this project, I demonstrate my ability to extract, transform, and load (ETL) 
 - <b>python</b>
 - <b>web scrapping</b>
 - <b>requests</b>
-- <b>PokeAPI</b>
+- <b><a href="https://pokeapi.co/docs/v2">PokeAPI</a></b>
 - <b>ETL</b>
 - <b>pandas</b>
 - <b>sqlite3</b>
